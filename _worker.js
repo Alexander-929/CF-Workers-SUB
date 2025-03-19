@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/airport_sub_merge.txt
 https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge.txt
 https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
+https://cf-workers-sub-9s8.pages.dev/CSDN
 `
 
 let urls = [];
