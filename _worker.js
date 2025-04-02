@@ -13,14 +13,19 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
-https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt
-https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
-https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/airport_sub_merge.txt
-https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge.txt
-https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
-https://cf-workers-sub-9s8.pages.dev/CSDN
+hy2://068a6252-4112-4193-9d67-5a7064e99af3@us-n1.starvm.ltd:32235?insecure=1&sni=us-n1.starvm.ltd#%F0%9F%87%BA%F0%9F%87%B8US-1
+ss://YWVzLTEyOC1nY206MDY4YTYyNTItNDExMi00MTkzLTlkNjctNWE3MDY0ZTk5YWYz@156.238.251.52:21007#UScn2%E8%90%BD%E5%9C%B0
+ss://YWVzLTEyOC1nY206MDY4YTYyNTItNDExMi00MTkzLTlkNjctNWE3MDY0ZTk5YWYz@hn.jiasu.eu:44281#%F0%9F%87%BA%F0%9F%87%B8US3-%E6%B5%B7%E5%8F%A3V6
+hy2://068a6252-4112-4193-9d67-5a7064e99af3@45.12.134.112:21764?insecure=1&sni=jpsda.201593.xyz#%F0%9F%87%AF%F0%9F%87%B5JP-1
+ss://YWVzLTEyOC1nY206MDY4YTYyNTItNDExMi00MTkzLTlkNjctNWE3MDY0ZTk5YWYz@183.236.51.167:26735#%F0%9F%87%AF%F0%9F%87%B5JP5-%E5%B9%BF%E5%B7%9E%E7%A7%BB%E5%8A%A8%201G
+ss://YWVzLTEyOC1nY206MDY4YTYyNTItNDExMi00MTkzLTlkNjctNWE3MDY0ZTk5YWYz@hn.jiasu.eu:45762#%F0%9F%87%AF%F0%9F%87%B5JP6-%E6%B5%B7%E5%8F%A3V6%201G
+hy2://068a6252-4112-4193-9d67-5a7064e99af3@140.245.42.3:44552?insecure=1&sni=sg-n1.starvm.ltd#%F0%9F%87%B8%F0%9F%87%ACSG-1
+ss://YWVzLTEyOC1nY206MDY4YTYyNTItNDExMi00MTkzLTlkNjctNWE3MDY0ZTk5YWYz@183.236.51.167:21876#%F0%9F%87%B8%F0%9F%87%ACSG2-%E5%B9%BF%E5%B7%9E%E7%A7%BB%E5%8A%A8%201G
+ss://YWVzLTEyOC1nY206MDY4YTYyNTItNDExMi00MTkzLTlkNjctNWE3MDY0ZTk5YWYz@180.101.45.31:37689#%F0%9F%87%B8%F0%9F%87%ACSG5-%E6%B1%9F%E8%8B%8F%E7%A7%BB%E5%8A%A8500M
+ss://YWVzLTEyOC1nY206MDY4YTYyNTItNDExMi00MTkzLTlkNjctNWE3MDY0ZTk5YWYz@180.101.45.31:34593#%F0%9F%87%AD%F0%9F%87%B0HK6-%E6%B1%9F%E8%8B%8F%E7%A7%BB%E5%8A%A8500M
+ss://YWVzLTEyOC1nY206MDY4YTYyNTItNDExMi00MTkzLTlkNjctNWE3MDY0ZTk5YWYz@hn.jiasu.eu:44137#%F0%9F%87%AD%F0%9F%87%B0HK9-%E6%B5%B7%E5%8F%A3V6%201G
+hy2://068a6252-4112-4193-9d67-5a7064e99af3@74.119.193.3:54969?insecure=1&sni=hk1253.201593.xyz#%F0%9F%87%AD%F0%9F%87%B0HK-13
+ss://YWVzLTEyOC1nY206MDY4YTYyNTItNDExMi00MTkzLTlkNjctNWE3MDY0ZTk5YWYz@hn.jiasu.eu:15494#%F0%9F%87%A7%F0%9F%87%B7BR-%E6%B5%B7%E5%8F%A3V6
 `
 
 let urls = [];
